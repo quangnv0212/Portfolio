@@ -1,0 +1,23 @@
+{
+    "language": "Ngôn ngữ",
+    "home": "Trang chủ",
+    "skills": "Kỹ năng",
+    "projects": "Dự án",
+    "connect": "Kết nối",
+    "download": "Tải CV",
+
+    "title-banner": "Mong muốn của tôi là trở thành một Full Stack Developer. Tôi đã có kiến thức về HTML, CSS, JAVASCRIPT (TYPESCRIPT), REACTJS, NODEJS, biết sử dụng hệ cơ sở dữ liệu MySQL, MongoDB. Tôi luôn muốn cống hiến hết mình để giúp công ty ngày càng phát triển và đạt được thành tựu cho bản thân. Tôi mong muốn được gia nhập công ty trong môi trường làm việc chuyên nghiệp để hoàn thiện, phát triển kỹ năng lập trình cũng như hoàn thiện bản thân.",
+    "title-skill": "Là một người tự học trái ngành, tôi đang cố gắng trau dồi các kĩ năng về lập trình của mình hàng ngày dể đáp ứng nhu cầu cho các dự án cá nhân",
+    "title-project": "Dưới đây là tất cả các dự án mà tôi đã thực hiện trong quá trình học tập và nghiên cứu",
+    "title-sub-project": "Cùng với một số dự án nhỏ, vui lòng truy cập",
+
+    "contact": "Liên hệ",
+    "firstName": "Họ",
+    "lastName": "Tên",
+    "email": "Email",
+    "phoneNumber": "Số điện thoại",
+    "message": "Tin nhắn",
+
+    "send-email": "Gửi cho tôi email",
+    "send-sub-email": "Tôi sẽ liên hệ lại với bạn"
+}

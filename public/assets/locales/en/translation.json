@@ -1,0 +1,23 @@
+{
+    "language": "Language",
+    "home": "Home",
+    "skills": "Skills",
+    "projects": "Projects",
+    "connect": "Let’s Connect",
+    "download": "Download CV",
+
+    "title-banner": "With the knowledge learned in online courses and documents, I want to become a Full-stack Developer. I have knowledge of HTML, CSS, JAVASCRIPT and REACTJS, NODEJS plus skills I hone everyday, I want to give my best to help the company grow and achieve for myself. I look forward to joining the company in a professional working environment to hone and develop programming skills as well as improve myself.",
+    "title-skill": "Having a solid knowledge of HTML, CSS, JAVASCRIPT and REACTJS, I always try to hone my skills every day.",
+    "title-project": "There are all the projects that I did during my study and research",
+    "title-sub-project": "Along with some mini-projects please visit my",
+
+    "contact": "Contact",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "message": "Message",
+
+    "send-email": "Send me Email",
+    "send-sub-email": "so I can contact you"
+}
